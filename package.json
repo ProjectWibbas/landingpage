@@ -1,0 +1,15 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ProjectWibbas/landingpage.git",
+  "author": "deriando <10672809+deriando@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "deploy": "gh-pages -d ./src"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
